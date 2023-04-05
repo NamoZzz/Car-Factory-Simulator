@@ -1,126 +1,38 @@
-local args = {
+local Blue4 = {
     [1] = workspace.Tycoons.Blue.Model.Lines.Conveyor4
 }
 
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Blue4))
+local Green4 = {
     [1] = workspace.Tycoons.Green.Model.Lines.Conveyor4
 }
 
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Green4))
+local Lapis4 = {
     [1] = workspace.Tycoons.Lapis.Model.Lines.Conveyor4
 }
 
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Lapis4))
+local Orange4 = {
     [1] = workspace.Tycoons.Orange.Model.Lines.Conveyor4
 }
 
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Orange4))
+local Purple4 = {
     [1] = workspace.Tycoons.Purple.Model.Lines.Conveyor4
 }
 
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Purple4))
+local Red4 = {
     [1] = workspace.Tycoons.Red.Model.Lines.Conveyor4
 }
 
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Red4))
+local Yellow4 = {
     [1] = workspace.Tycoons.Yellow.Model.Lines.Conveyor4
 }
 
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-
-
-
-
-
-
-
-
-
-local args = {
-    [1] = workspace.Tycoons.Blue.Model.Lines.Conveyor2
-}
-
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
-    [1] = workspace.Tycoons.Green.Model.Lines.Conveyor2
-}
-
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
-    [1] = workspace.Tycoons.Lapis.Model.Lines.Conveyor2
-}
-
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
-    [1] = workspace.Tycoons.Orange.Model.Lines.Conveyor2
-}
-
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
-    [1] = workspace.Tycoons.Purple.Model.Lines.Conveyor2
-}
-
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
-    [1] = workspace.Tycoons.Red.Model.Lines.Conveyor2
-}
-
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
-    [1] = workspace.Tycoons.Yellow.Model.Lines.Conveyor2
-}
-
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-
-
-
-
-
-
-
-
-
-local args = {
-    [1] = workspace.Tycoons.Blue.Model.Lines.Conveyor3
-}
-
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
-    [1] = workspace.Tycoons.Green.Model.Lines.Conveyor3
-}
-
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
-    [1] = workspace.Tycoons.Lapis.Model.Lines.Conveyor3
-}
-
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
-    [1] = workspace.Tycoons.Orange.Model.Lines.Conveyor3
-}
-
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
-    [1] = workspace.Tycoons.Purple.Model.Lines.Conveyor3
-}
-
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
-    [1] = workspace.Tycoons.Red.Model.Lines.Conveyor3
-}
-
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
-    [1] = workspace.Tycoons.Yellow.Model.Lines.Conveyor3
-}
-
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Yellow4))
 
 
 
@@ -136,38 +48,183 @@ game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.D
 
 
 
-local args = {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+local Blue1 = {
     [1] = workspace.Tycoons.Blue.Model.Lines.Conveyor1
 }
 
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Blue1))
+local Green1 = {
     [1] = workspace.Tycoons.Green.Model.Lines.Conveyor1
 }
 
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Green1))
+local Lapis1 = {
     [1] = workspace.Tycoons.Lapis.Model.Lines.Conveyor1
 }
 
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Lapis1))
+local Orange1 = {
     [1] = workspace.Tycoons.Orange.Model.Lines.Conveyor1
 }
 
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Orange1))
+local Purple1 = {
     [1] = workspace.Tycoons.Purple.Model.Lines.Conveyor1
 }
 
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Purple1))
+local Red1 = {
     [1] = workspace.Tycoons.Red.Model.Lines.Conveyor1
 }
 
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
-local args = {
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Red1))
+local Yellow1 = {
     [1] = workspace.Tycoons.Yellow.Model.Lines.Conveyor1
 }
 
-game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(args))
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Yellow1))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+local Blue2 = {
+    [1] = workspace.Tycoons.Blue.Model.Lines.Conveyor2
+}
+
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Blue2))
+local Green2 = {
+    [1] = workspace.Tycoons.Green.Model.Lines.Conveyor2
+}
+
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Green2))
+local Lapis2 = {
+    [1] = workspace.Tycoons.Lapis.Model.Lines.Conveyor2
+}
+
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Lapis2))
+local Orange2 = {
+    [1] = workspace.Tycoons.Orange.Model.Lines.Conveyor2
+}
+
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Orange2))
+local Purple2 = {
+    [1] = workspace.Tycoons.Purple.Model.Lines.Conveyor2
+}
+
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Purple2))
+local Red2 = {
+    [1] = workspace.Tycoons.Red.Model.Lines.Conveyor2
+}
+
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Red2))
+local Yellow2 = {
+    [1] = workspace.Tycoons.Yellow.Model.Lines.Conveyor2
+}
+
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Yellow2))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+local Blue3 = {
+    [1] = workspace.Tycoons.Blue.Model.Lines.Conveyor3
+}
+
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Blue3))
+local Green3 = {
+    [1] = workspace.Tycoons.Green.Model.Lines.Conveyor3
+}
+
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Green3))
+local Lapis3 = {
+    [1] = workspace.Tycoons.Lapis.Model.Lines.Conveyor3
+}
+
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Lapis3))
+local Orange3 = {
+    [1] = workspace.Tycoons.Orange.Model.Lines.Conveyor3
+}
+
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Orange3))
+local Purple3 = {
+    [1] = workspace.Tycoons.Purple.Model.Lines.Conveyor3
+}
+
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Purple3))
+local Red3 = {
+    [1] = workspace.Tycoons.Red.Model.Lines.Conveyor3
+}
+
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Red3))
+local Yellow3 = {
+    [1] = workspace.Tycoons.Yellow.Model.Lines.Conveyor3
+}
+
+game:GetService("ReplicatedStorage").Packages.Knit.Services.MaterialService.RF.Drop:InvokeServer(unpack(Yellow3))
